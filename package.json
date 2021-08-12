@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-sequelize-tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:nullthefirst/nodejs-sequelize-tutorial.git",
+  "author": "Ninte <ninte.dev@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
